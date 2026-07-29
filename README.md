@@ -116,4 +116,4 @@ Remember:
 
 That is why aptitude is an essential step in your journey from **student** to **professional Software Engineer**.
 
-**Employability = Aptitude + Technical Skills + Communication + Professional Attitude + Continuous Learning.**
+**Employability = Aptitude + Technical Skills + Communication + Professional Attitude + Continuous Learning.**....
