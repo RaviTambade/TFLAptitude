@@ -117,3 +117,14 @@ Remember:
 That is why aptitude is an essential step in your journey from **student** to **professional Software Engineer**.
 
 **Employability = Aptitude + Technical Skills + Communication + Professional Attitude + Continuous Learning.**....
+ ## Employability Aptitude Learning Path
+
+
+- <a href="analytical-reasoning.html">Analytical Reasoning</a></li>
+- <a href="behavioral-situational-aptitude.html">Behavioral &amp; Situational Aptitude</a></li>
+- <a href="computer-science-aptitude.html">Computer Science Aptitude</a></li>
+- <a href="logical-reasoning.html">Logical Reasoning</a></li>
+- <a href="programming-aptitude.html">Programming Aptitude</a></li>
+- <a href="quantitative-aptitude.html">Quantitative Aptitude</a></li>
+- <a href="verbal-ability.html">Verbal Ability</a></li>
+    
