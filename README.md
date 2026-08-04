@@ -115,6 +115,6 @@ That is why aptitude is an essential step in your journey from **student** to **
 - <a href="https://github.com/RaviTambade/TFLAptitude/blob/main/notes/BehavioralSituationalAptitude/intro.md">Behavioral &amp; Situational Aptitude</a>
 - <a href="https://github.com/RaviTambade/TFLAptitude/blob/main/notes/ComputerScienceAptitude/intro.md">Computer Science Aptitude</a>
 - <a href="https://github.com/RaviTambade/TFLAptitude/blob/main/notes/LogicalReasoning/intro.md">Logical Reasoning</a>
-- <a href="https://github.com/RaviTambade/TFLAptitude/blob/main/notes/ProgrammingAptitude/intro.md">Programming Aptitude</a>
+- <a href="https://github.com/RaviTambade/TFLAptitude/blob/main/notes/ProgrammingAptitude/Intro.md">Programming Aptitude</a>
 - <a href="https://github.com/RaviTambade/TFLAptitude/blob/main/notes/Quantitative/intro.md">Quantitative Aptitude</a>
 - <a href="https://github.com/RaviTambade/TFLAptitude/blob/main/notes/VerbalAbility/intro.md">Verbal Ability</a>
