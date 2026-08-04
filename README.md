@@ -120,7 +120,7 @@ That is why aptitude is an essential step in your journey from **student** to **
  ## Employability Aptitude Learning Path
 
 
-- <a href="analytical-reasoning.html">Analytical Reasoning</a></li>
+- <a href="https://github.com/RaviTambade/TFLAptitude/tree/main/notes/AnalyticalReasoning/Intro.md">Analytical Reasoning</a></li>
 - <a href="behavioral-situational-aptitude.html">Behavioral &amp; Situational Aptitude</a></li>
 - <a href="computer-science-aptitude.html">Computer Science Aptitude</a></li>
 - <a href="logical-reasoning.html">Logical Reasoning</a></li>
