@@ -69,11 +69,7 @@ A strong aptitude foundation helps you:
 
 ## At Transflower, Aptitude is Part of Employability
 
-Our objective is not simply to help students pass an examination.
-
-Our mission is to prepare students for long-term careers in the IT industry.
-
-That means developing:
+Our objective is not simply to help students pass an examination. Our mission is to prepare students for long-term careers in the IT industry. That means developing:
 
 * Strong logical thinking.
 * Excellent communication skills.
@@ -102,11 +98,7 @@ When this becomes your habit, you are no longer preparing only for interviews—
 
 ## A Message from Your Mentor
 
-At Transflower, we don't prepare students merely to **get a job**.
-
-We prepare them to **solve problems, build software, create value, and grow throughout their careers**.
-
-Every aptitude question you solve is another opportunity to sharpen your analytical thinking.
+At Transflower, we don't prepare students merely to **get a job**.We prepare them to **solve problems, build software, create value, and grow throughout their careers**. Every aptitude question you solve is another opportunity to sharpen your analytical thinking.
 
 Remember:
 
@@ -119,12 +111,10 @@ That is why aptitude is an essential step in your journey from **student** to **
 **Employability = Aptitude + Technical Skills + Communication + Professional Attitude + Continuous Learning.**....
  ## Employability Aptitude Learning Path
 
-
-- <a href="https://github.com/RaviTambade/TFLAptitude/tree/main/notes/AnalyticalReasoning/Intro.md">Analytical Reasoning</a></li>
-- <a href="https://github.com/RaviTambade/TFLAptitude/blob/main/notes/BehavioralSituationalAptitude/intro.md">Behavioral &amp; Situational Aptitude</a></li>
-- <a href="https://github.com/RaviTambade/TFLAptitude/blob/main/notes/ComputerScienceAptitude/intro.md">Computer Science Aptitude</a></li>
-- <a href="https://github.com/RaviTambade/TFLAptitude/blob/main/notes/LogicalReasoning/intro.md">Logical Reasoning</a></li>
-- <a href="https://github.com/RaviTambade/TFLAptitude/blob/main/notes/ProgrammingAptitude/intro.md">Programming Aptitude</a></li>
-- <a href="https://github.com/RaviTambade/TFLAptitude/blob/main/notes/Quantitative/intro.md">Quantitative Aptitude</a></li>
-- <a href="https://github.com/RaviTambade/TFLAptitude/blob/main/notes/VerbalAbility/intro.md">Verbal Ability</a></li>
-    
+- <a href="https://github.com/RaviTambade/TFLAptitude/tree/main/notes/AnalyticalReasoning/Intro.md">Analytical Reasoning</a>
+- <a href="https://github.com/RaviTambade/TFLAptitude/blob/main/notes/BehavioralSituationalAptitude/intro.md">Behavioral &amp; Situational Aptitude</a>
+- <a href="https://github.com/RaviTambade/TFLAptitude/blob/main/notes/ComputerScienceAptitude/intro.md">Computer Science Aptitude</a>
+- <a href="https://github.com/RaviTambade/TFLAptitude/blob/main/notes/LogicalReasoning/intro.md">Logical Reasoning</a>
+- <a href="https://github.com/RaviTambade/TFLAptitude/blob/main/notes/ProgrammingAptitude/intro.md">Programming Aptitude</a>
+- <a href="https://github.com/RaviTambade/TFLAptitude/blob/main/notes/Quantitative/intro.md">Quantitative Aptitude</a>
+- <a href="https://github.com/RaviTambade/TFLAptitude/blob/main/notes/VerbalAbility/intro.md">Verbal Ability</a>
